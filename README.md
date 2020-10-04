@@ -1,9 +1,7 @@
 ![](bannerGif.gif)
-  - 🔭 I'm currently working on my portfolio and a children's web comic app
-  - 🌱 I'm also currently learning Python with Lambda School
+  - 🌱 I'm currently learning Python
   - 💬 My favorite languages are React && NodeJS; others include CSS, HTML, SQL, RDMS
   - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: hey@hey-michelle.dev
-
 
 
 # Technology and Tools
@@ -16,3 +14,5 @@
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=silver) ![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=silver) ![](https://img.shields.io/badge/Tools-TablePlus-informational?style=flat&logo=sqlite&logoColor=white&color=silver) ![](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=silver)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HeyMichelle&theme=graywhite&show_icons=true)
+
+
