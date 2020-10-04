@@ -1,4 +1,3 @@
-![Header](https://media.giphy.com/media/gOUlDaQmybD1TmjgLz/giphy.gif)
 ![](bannerGif.gif)
   - 🔭 I'm currently working on my portfolio and a children's web comic app
   - 🌱 I'm also currently learning Python with Lambda School
