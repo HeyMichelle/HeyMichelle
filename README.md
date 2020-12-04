@@ -1,7 +1,7 @@
 ![](bannerGif.gif)
   - 🌱 I'm currently learning Python
   - 💬 My favorite languages are React && NodeJS; others include CSS, HTML, SQL, RDMS
-  - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: hey@hey-michelle.dev
+  - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: solutions@heymichelle.tech
 
 
 # 🔧 Technology and Tools
