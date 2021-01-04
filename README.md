@@ -1,6 +1,6 @@
 ![](bannerGif.gif)
   - 🌱 I'm currently learning Python
-  - 💬 My favorite languages are React && NodeJS; others include CSS, HTML, SQL, RDMS
+  - 💬 Lover of all things JavaScript: GatsbyJS, ReactJS && NodeJS; other favorites include CSS, HTML, SQL, and Python
   - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: solutions@heymichelle.tech
 
 
