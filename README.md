@@ -8,7 +8,7 @@
 
 # 🔧 Technology and Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=black&color=white)    ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=white)    ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=white)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=black&color=white)    ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=white)    ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=intellij-idea&logoColor=white&color=white)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=javascript&logoColor=white&color=faf7fb)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=javascript&logoColor=white&color=faf7fb) ![](https://img.shields.io/badge/Code-RDMS-informational?style=flat&logo=rdms&logoColor=white&color=faf7fb)
