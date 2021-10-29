@@ -1,5 +1,5 @@
 ![](bannerGif.gif)
-  - 🌱 I'm continuously improving my skills in Python with interests in Machine Learning and AI
+  - 🌱 I'm branching into iOS/Swift, Android/Kotlin, React Native
   - 💬 Lover of all things JS: ReactJS && NodeJS; other favorites include a MERN stack, CSS, HTML, SQL, and Python
   - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: solutions@heymichelle.tech
   - 📖 My blog 'Techchelle' is in the works [here](https://techchelle.com)
