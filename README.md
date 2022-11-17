@@ -4,7 +4,7 @@
   - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: connect@techchelle.com
    
   
-# 🔧 Technology and Tools
+# 🔧 Technology and Tools   
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=black&color=white)    ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=white)    ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=white)
 
