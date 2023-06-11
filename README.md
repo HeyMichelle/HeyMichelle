@@ -3,7 +3,7 @@
   - 💬 Lover of all things JS: ReactJS && NodeJS; other favorites include a MERN stack, CSS, HTML, SQL, and Python. 
   - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/michelle-hey-a690ba52) or email: connect@techchelle.com  
   - Visit [techchelle.com](https://techchelle.com)
-       
+        
      
 # 🔧 Technology and Tools   
 
